@@ -1,0 +1,22 @@
+C:\Users\d.prokofev\Documents\Visual Studio 2010\Projects\PDFJoiner\PDFJoiner\obj\x86\Debug\PDFJoiner.csprojResolveAssemblyReference.cache
+C:\Users\d.prokofev\Documents\Visual Studio 2010\Projects\PDFJoiner\PDFJoiner\obj\x86\Debug\PDFJoiner.Properties.Resources.resources
+C:\Users\d.prokofev\Documents\Visual Studio 2010\Projects\PDFJoiner\PDFJoiner\obj\x86\Debug\PDFJoiner.Views.PDFJoinerView.resources
+C:\Users\d.prokofev\Documents\Visual Studio 2010\Projects\PDFJoiner\PDFJoiner\obj\x86\Debug\PDFJoiner.csproj.GenerateResource.Cache
+C:\Users\d.prokofev\Documents\Visual Studio 2010\Projects\PDFJoiner\PDFJoiner\bin\Debug\PDFJoiner.exe
+C:\Users\d.prokofev\Documents\Visual Studio 2010\Projects\PDFJoiner\PDFJoiner\bin\Debug\PDFJoiner.pdb
+C:\Users\d.prokofev\Documents\Visual Studio 2010\Projects\PDFJoiner\PDFJoiner\bin\Debug\itextsharp.dll
+C:\Users\d.prokofev\Documents\Visual Studio 2010\Projects\PDFJoiner\PDFJoiner\bin\Debug\itextsharp.xml
+C:\Users\d.prokofev\Documents\Visual Studio 2010\Projects\PDFJoiner\PDFJoiner\obj\x86\Debug\PDFJoiner.exe
+C:\Users\d.prokofev\Documents\Visual Studio 2010\Projects\PDFJoiner\PDFJoiner\obj\x86\Debug\PDFJoiner.pdb
+C:\Users\Дмитрий\Downloads\PDFJoiner(Version 1.0.2)\PDFJoiner\PDFJoiner\obj\x86\Debug\PDFJoiner.exe
+C:\Users\Дмитрий\Downloads\PDFJoiner(Version 1.0.2)\PDFJoiner\PDFJoiner\obj\x86\Debug\PDFJoiner.pdb
+C:\Users\Дмитрий\Downloads\PDFJoiner(Version 1.0.2)\PDFJoiner\PDFJoiner\bin\Debug\PDFJoiner.exe
+C:\Users\Дмитрий\Downloads\PDFJoiner(Version 1.0.2)\PDFJoiner\PDFJoiner\bin\Debug\PDFJoiner.pdb
+C:\Users\Дмитрий\Downloads\PDFJoiner(Version 1.0.2)\PDFJoiner\PDFJoiner\bin\Debug\itextsharp.dll
+C:\Users\Дмитрий\Downloads\PDFJoiner(Version 1.0.2)\PDFJoiner\PDFJoiner\bin\Debug\itextsharp.xml
+C:\Users\Дмитрий\Downloads\PDFJoiner(Version 1.0.2)\PDFJoiner\PDFJoiner\obj\x86\Debug\PDFJoiner.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Downloads\PDFJoiner(Version 1.0.2)\PDFJoiner\PDFJoiner\obj\x86\Debug\PDFJoiner.Properties.Resources.resources
+C:\Users\Дмитрий\Downloads\PDFJoiner(Version 1.0.2)\PDFJoiner\PDFJoiner\obj\x86\Debug\PDFJoiner.Views.PDFJoinerView.resources
+C:\Users\Дмитрий\Downloads\PDFJoiner(Version 1.0.2)\PDFJoiner\PDFJoiner\obj\x86\Debug\PDFJoiner.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Works\PDFJoiner\PDFJoiner\obj\x86\Debug\PDFJoiner.exe
+C:\Users\Дмитрий\Desktop\Works\PDFJoiner\PDFJoiner\obj\x86\Debug\PDFJoiner.pdb
